@@ -22,7 +22,7 @@
 - 📚 Discover and learn from a wide variety of coding resources
 - 🌟 Contribute and collaborate with the coding community
 
-## How to Contribute 📄
+## How to Contribute 📄🤞
 
 > If you want to contribute to this repository, please read the [contributing guidelines](https://github.com/akkupy/Code_Dump/blob/main/CONTRIBUTING.md) first. <br>
 > You can add your own code files, edit existing ones, or suggest new features or improvements.
